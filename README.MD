@@ -2,7 +2,7 @@ New Year Plan
 A simple HTML & CSS website
 
 Live Link
-Hosted in Github -> [Paywise Online Bank ](https://sujan-ahammad.github.io/New-Plan-with-HTML-and-CSS/)
+Hosted in Github -> [New Year Plan ](https://sujan-ahammad.github.io/New-Plan-with-HTML-and-CSS/)
 
 Resources & Credits
 
